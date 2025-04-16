@@ -1,0 +1,1 @@
+₹\d+,\d+\.\d+(?=\s+\d+%?\s(?:CGST|SGST|IGST)|TOTAL:)
